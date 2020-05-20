@@ -1,2 +1,2 @@
 # TrackerApp
-~~My Tracking App~~
+~My Tracking App~
